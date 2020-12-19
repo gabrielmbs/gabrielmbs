@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Gabriel Souto
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-souto-416b731ab/)](https://www.linkedin.com/in/gabriel-souto-416b731ab/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielmbs__/)](https://www.instagram.com/gabrielmbs__/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielmbsouto/)](https://www.instagram.com/gabrielmbsouto/)
 
 ### 👋 Welcome to my profile
 
