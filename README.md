@@ -13,18 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Gabriel Souto
+<h1 align="center">Hi 👋, I'm Gabriel Souto</h1>
+<h3 align="center">Developer and Researcher</h3>
 
-### Welcome to my profile 👋
+- 🔭 I’m currently working on [Laboratório de Sistemas de Informação - LSI/UFCG](https://github.com/lsi-ufcg)
 
-## About Me
-I'm a computer science student at UFCG. Currently interested in web development and mobile development. :computer:
+- 🌱 I’m currently learning **Software architecture and DevOps**
 
-<br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
-<br/> :email: &nbsp; Please, contact me:
-<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmbsouto/)](https://www.linkedin.com/in/gabrielmbsouto/)
-| 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gabrielmbsouto/)](https://www.instagram.com/gabrielmbsouto/)
-| 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmareco89@gmail.com)](mailto:gabrielmareco89@gmail.com)
+- 📫 How to reach me **gabriel.souto@ccc.ufcg.edu.br**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/gabrielmbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabrielmbs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielmbsouto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmbsouto" height="30" width="40" /></a>
+<a href="https://instagram.com/gabrielmbsouto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmbsouto" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmbs&show_icons=true&locale=en" alt="gabrielmbs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmbs&" alt="gabrielmbs" /></p>
+
