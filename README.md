@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/gabrielmbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gabrielmbs" height="30" width="40" /></a>
+<a href="https://dev.to/gabrielmbs" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="gabrielmbs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabrielmbsouto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielmbsouto" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielmbsouto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmbsouto" height="30" width="40" /></a>
 </p>
