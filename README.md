@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielmbs)
 <h1 align="center">Hi 👋, I'm Gabriel Souto</h1>
 <h3 align="center">Developer and Researcher</h3>
 
